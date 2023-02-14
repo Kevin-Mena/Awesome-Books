@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+
+# Awesome Books
 
 Book Store
 
