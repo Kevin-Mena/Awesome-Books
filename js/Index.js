@@ -1,12 +1,11 @@
 // create an array for book collection
 // function to add book to collection
 // function to remove book from collection
-const bookCollection =  JSON.parse(localStorage.getItem('bookCollection')) || [];;
+const bookCollection = JSON.parse(localStorage.getItem('bookCollection')) || [];
 const display = document.getElementById('display-books');
 const title = document.getElementById('book-title');
 const author = document.getElementById('book-author');
 const btnAdd = document.getElementById('add');
-
 
 function collection() {
   display.innerHTML = '';
