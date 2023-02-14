@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Open editor terminal
 
-- Digit "https://github.com/zied2112/Awesome-books.git"
+- Digit "git clone https://github.com/zied2112/Awesome-books.git"
 
 - Then "cd My BookStore"
 
@@ -58,9 +58,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@github](https://github.com/PedroH-Neves)
-- Twitter: [@twitter](https://twitter.com/PedroHDN710)
-- LinkedIn: [@linkedin](https://www.linkedin.com/in/pedro-henrique-domingues-neves-8a5878244/)
+- GitHub: [@github](https://github.com/zied2112)
+- Twitter: [@twitter](https://twitter.com/AmorZied1996)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zied-ben-amor-924908149/)
 
 👤 **Author2**
 
