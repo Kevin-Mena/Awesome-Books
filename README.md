@@ -58,15 +58,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@PedroH-Neves](https://github.com/PedroH-Neves)
-- Twitter: [@PedroHDN710](https://twitter.com/PedroHDN710)
-- LinkedIn: [Pedro Neves](https://www.linkedin.com/in/pedro-henrique-domingues-neves-8a5878244/)
+- GitHub: [@github](https://github.com/PedroH-Neves)
+- Twitter: [@twitter](https://twitter.com/PedroHDN710)
+- LinkedIn: [@linkedin](https://www.linkedin.com/in/pedro-henrique-domingues-neves-8a5878244/)
 
 👤 **Author2**
 
 - GitHub: [@github](https://github.com/Kevin-Mena)
 - Twitter: [@twitter](https://twitter.com/Fmenawende)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevin-okoth-19407119b/)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/kevin-okoth-19407119b/)
 
 ## 🤝 Contributing
 
