@@ -1,16 +1,15 @@
 // create an array for book collection
 // function to add book to collection
 // function to remove book from collection
-const bookCollection = [];
+const bookCollection =  JSON.parse(localStorage.getItem('bookCollection')) || [];;
 const display = document.getElementById('display-books');
 const title = document.getElementById('book-title');
 const author = document.getElementById('book-author');
 const btnAdd = document.getElementById('add');
 
+
 function collection() {
   display.innerHTML = '';
-
-
   for (let i = 0; i < bookCollection.length; i += 1) {
     display.innerHTML += `<div class="book">
         <h3>${bookCollection[i].title}</h3>
@@ -19,6 +18,7 @@ function collection() {
         </div>`;
   }
 }
+collection();
 function remove(index) {
   bookCollection.splice(index, 1);
   localStorage.setItem('bookCollection', JSON.stringify(bookCollection));
