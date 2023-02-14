@@ -9,8 +9,6 @@ const btnAdd = document.getElementById('add');
 
 function collection() {
   display.innerHTML = '';
-
-
   for (let i = 0; i < bookCollection.length; i += 1) {
     display.innerHTML += `<div class="book">
         <h3>${bookCollection[i].title}</h3>
