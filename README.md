@@ -64,9 +64,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author2**
 
-- GitHub: [@github](https://github.com/zied2112)
-- Twitter: [@twitter](https://twitter.com/AmorZied1996)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zied-ben-amor-924908149/)
+- GitHub: [@github](https://github.com/Kevin-Mena)
+- Twitter: [@twitter](https://twitter.com/Fmenawende)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevin-okoth-19407119b/)
 
 ## 🤝 Contributing
 
