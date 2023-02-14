@@ -22,3 +22,8 @@ form{
     display: flex;
     flex-direction: column;
 }
+.show-book {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
