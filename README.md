@@ -1,85 +1,197 @@
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Awesome Books (Book Store)</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Awesome Books] <a name="about-project"></a>
+
+> Books Library
+
+**[Awesome books]** is a...
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
 
-# Awesome Books
+<!-- Features -->
 
-Book Store
+### Key Features <a name="key-features"></a>
 
-## Built With
+> Describe between 1-3 key features of the application.
 
--vscode
+- **[Functions for adding and removing books]**
+- **[Persistence of data in the browser]**
+- **[A miniature GUI]**
 
--npm
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
--html
+<!-- LIVE DEMO -->
 
--css
+## 🚀 Live Demo <a name="live-demo"></a>
 
--javascript
+> Add a link to your deployed project.
 
-## Live Demo (if available)
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
-## Getting Started
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To get a local copy up and running follow these simple example steps.
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
--Computer
+In order to run this project you need:
 
--Internet
 
--Web Browser
+```sh
+ download node.js code editor and etc
+```
+
 
 ### Setup
 
-- Clone the repository to your computer, or you download the zip file containing the repository files.
+Clone this repository to your desired folder:
 
-- In order to use is possible to :
-
-- Open editor terminal
-
-- Digit "git clone https://github.com/zied2112/BookStore.git"
-
-- Then "cd My BookStore"
-
-- File editing can then be applied using any code editor.
+ type the following command into your command lind
+ git clone https://github.com/zied2112/Awesome-books.git
 
 ### Install
 
-- `npm install`
+Install this project with:
+
+Run the following commands to install dependencies
+
+```
+
+npm install --save-dev hint@7.x
+npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
+
+
+```
 
 ### Usage
 
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
 ### Deployment
 
-- To view the page right from the files cloned to your computer, open the index.html file from any browser.
+You can deploy this project using:
 
-## Authors
+<!--
+Example:
 
-👤 **Author1**
+```sh
 
-- GitHub: [@github](https://github.com/PedroH-Neves)
-- Twitter: [@twitter](https://twitter.com/PedroHDN710)
-- LinkedIn: [@linkedin](https://www.linkedin.com/in/pedro-henrique-domingues-neves-8a5878244/)
+```
+ -->
 
-👤 **Author2**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Zied Ben Amor**
+
+- GitHub: [@github](https://github.com/zied2112)
+
+👤 **Kevin Mena**
 
 - GitHub: [@github](https://github.com/Kevin-Mena)
 - Twitter: [@twitter](https://twitter.com/Fmenawende)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/kevin-okoth-19407119b/)
+- LinkedIn: [@LinkedIn](https://linkedin.com/in/kevin-okoth-19407119b/)
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Feel free to check the [issues page](https://github.com/zied2112/BookStore/issues).
 
-## Show your support
+<!-- LICENSE -->
 
-Give a ⭐️ if you like this project!
+## 📝 License <a name="license"></a>
 
-## Acknowledgments
+This project is [MIT](./LICENSE) licensed.
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
