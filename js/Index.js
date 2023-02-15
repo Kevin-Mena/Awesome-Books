@@ -29,14 +29,14 @@ window.addEventListener('load', () => {
       bookCollection.push({ title: title.value, author: author.value });
       display.innerHTML = `
       ${bookCollection
-          .map((book, index) => `
+    .map((book, index) => `
         <div class="user-input">
           <h3 class="input-value">${book.title}</h3>
           <p class="input-value">${book.author}</p>
           <button class="delete-btn" id=${index}>Remove</button>
         </div>
       `)
-          .join('')}
+    .join('')}
     `;
       localStorage.setItem('bookCollection', JSON.stringify(bookCollection));
     }
@@ -47,14 +47,14 @@ window.addEventListener('load', () => {
     localStorage.setItem('bookCollection', JSON.stringify(bookCollection));
     display.innerHTML = `
     ${bookCollection
-        .map((book, index) => `
+    .map((book, index) => `
       <div class="user-input">
         <h3 class="input-value">${book.title}</h3>
         <p class="input-value">${book.author}</p>
         <button class="delete-btn" id=${index}>Remove</button>
       </div>
     `)
-        .join('')}
+    .join('')}
   `;
   });
 });
