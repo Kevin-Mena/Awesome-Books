@@ -35,12 +35,7 @@ function add(e) {
     bookCollection.push(book);
     collection();
   }
-    localStorage.setItem('bookCollection', JSON.stringify(bookCollection)); 
-}
-const bookData = JSON.parse(localStorage.getItem('books'));
-if(bookData) {
-  title.value = bookData.title;
-  author.value = bookData.author;
+  localStorage.setItem('bookCollection', JSON.stringify(bookCollection));
 }
 
 btnAdd.addEventListener('click', add);
