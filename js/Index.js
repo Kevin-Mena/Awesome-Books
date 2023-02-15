@@ -83,4 +83,4 @@ form.addEventListener('submit', (e) => {
   Book.addBookToList(book);
   Book.addBook(book);
   Book.clearFields();
-} );
+});
