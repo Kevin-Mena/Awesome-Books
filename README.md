@@ -182,6 +182,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.</a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
